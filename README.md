@@ -5,8 +5,6 @@
 ## Features
 
 - Fixes a bug where several Omega Cast projectiles were not being properly tagged as "cast" damage.
-- This allows them to correctly synergize with boons and other upgrades that trigger off of cast effects (e.g., "Exit Wounds" from Artemis).
-- Affects Omega Casts from Apollo, Ares, Demeter, Athena, and the Zeus/Apollo synergy.
 
 ## Installation
 
